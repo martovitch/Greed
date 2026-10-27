@@ -1,4 +1,4 @@
-<img width="3030" height="632" alt="Greed" src="https://github.com/user-attachments/assets/765d72d7-5a5c-420f-8ac7-427d96bd364c" />
+<img width="3194" height="992" alt="Greed" src="https://github.com/user-attachments/assets/0d2d2f07-0cd4-47fa-b9bc-324e64f5371b" />
 
 # Greed — Automatic Modular & Baseline Grid for Adobe InDesign
 
