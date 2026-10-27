@@ -41,4 +41,4 @@ The code, architectural design, mathematical logic, and user interface of this t
 This script is distributed under a free and open-use model.
 
 * **Allowed:** You are free to download, use (in personal and commercial projects), modify the code for your own needs, and distribute the original or modified versions of the script for free.
-* **Prohibited:** It is strictly forbidden to sell this script, any of its parts, or any modified versions of it on any platform. The script must remain free and open for the community. *(Note: For GitHub repository settings, select "No license" and include this text in a `LICENSE` file, or apply the standard **CC BY-NC 4.0** license).*
+* **Prohibited:** It is strictly forbidden to sell this script, any of its parts, or any modified versions of it on any platform. The script must remain free and open for the community.
